@@ -5,13 +5,13 @@
 Recommended for those without a design background. 
 
 [Form and Code](http://amzn.com/1568989377)
-*book and companion website with links*
+[*book and companion website with links*]
 
 [Aaron Koblin TED talk](https://www.ted.com/talks/aaron_koblin)
-*video*
+[*video*]
 
 [The Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
-*Online course. Estimated time to complete: 10 hours.*
+	[*Online course. Estimated time to complete: 10 hours.*]
 
 ### Coding
 Recommended for those with little or no coding experience and/or those with little or no experience with JavaScript. 
